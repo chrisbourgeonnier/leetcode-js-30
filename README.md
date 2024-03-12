@@ -7,6 +7,7 @@ A repository with my solutions as I go through this 30-day challenge.
 ### Closures  
 01 - 2667. Create Hello World Function  
 02 - 2620. Counter  
+03 - 2704. To Be Or Not To Be 
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
