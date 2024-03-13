@@ -11,6 +11,7 @@ A repository with my solutions as I go through this 30-day challenge.
 04 - 2665. Counter II
 ### Basic Array Transformations  
 05 - 2635. Apply Transform Over Each Element in Array  
+06 - 2634. Filter Elements from Array  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
