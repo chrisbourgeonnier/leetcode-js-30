@@ -12,6 +12,7 @@ A repository with my solutions as I go through this 30-day challenge.
 ### Basic Array Transformations  
 05 - 2635. Apply Transform Over Each Element in Array  
 06 - 2634. Filter Elements from Array  
+07 - 2626. Array Reduce Transformation  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
