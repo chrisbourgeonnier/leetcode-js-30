@@ -15,6 +15,8 @@ A repository with my solutions as I go through this 30-day challenge.
 07 - 2626. Array Reduce Transformation  
 ### Function Transformations  
 08 - 2629. Function Composition  
+09 - 2703. Return Length of Arguments Passed  
+
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
