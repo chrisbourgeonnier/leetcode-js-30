@@ -17,7 +17,7 @@ A repository with my solutions as I go through this 30-day challenge.
 08 - 2629. Function Composition  
 09 - 2703. Return Length of Arguments Passed  
 10 - 2666. Allow One Function Call  
-11 - 2623 - Memoize  
+11 - 2623. Memoize  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
