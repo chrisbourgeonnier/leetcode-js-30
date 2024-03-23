@@ -22,6 +22,7 @@ A repository with my solutions as I go through this 30-day challenge.
 12 - 2723. Add Two Promises  
 13 - 2621. Sleep  
 14 - 2715. Timeout Cancellation  
+15 - 2725. Interval Cancellation
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
