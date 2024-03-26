@@ -26,6 +26,9 @@ A repository with my solutions as I go through this 30-day challenge.
 16 - 2637. Promise Time Limit  
 17 - 2622. Cache With Time Limit  
 18 - 2627. Debounce  
+19 -
+### JSON  
+20 - 2727. Is Object Empty
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
