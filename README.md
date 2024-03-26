@@ -25,6 +25,7 @@ A repository with my solutions as I go through this 30-day challenge.
 15 - 2725. Interval Cancellation  
 16 - 2637. Promise Time Limit  
 17 - 2622. Cache With Time Limit  
+18 - 2627. Debounce  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
