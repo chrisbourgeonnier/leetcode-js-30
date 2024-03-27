@@ -28,7 +28,7 @@ A repository with my solutions as I go through this 30-day challenge.
 18 - 2627. Debounce  
 19 -
 ### JSON  
-20 - 2727. Is Object Empty
+20 - 2727. Is Object Empty  
 21 - 2677. Chunk Array  
 
 --------
