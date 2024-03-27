@@ -29,6 +29,7 @@ A repository with my solutions as I go through this 30-day challenge.
 19 -
 ### JSON  
 20 - 2727. Is Object Empty
+21 - 2677. Chunk Array  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
