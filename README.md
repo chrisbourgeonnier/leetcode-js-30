@@ -32,6 +32,7 @@ A repository with my solutions as I go through this 30-day challenge.
 21 - 2677. Chunk Array  
 22 - 2619. Array Prototype Last  
 23 - 2631. Group By  
+24 - 2724. Sort By  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
