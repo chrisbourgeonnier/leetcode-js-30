@@ -34,6 +34,11 @@ A repository with my solutions as I go through this 30-day challenge.
 23 - 2631. Group By  
 24 - 2724. Sort By  
 25 - 2722. Join Two Arrays by ID  
+26 -  
+27 -  
+### Classes  
+28 -  
+29 - 2695. Array Wrapper  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
