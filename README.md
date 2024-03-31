@@ -39,6 +39,7 @@ A repository with my solutions as I go through this 30-day challenge.
 ### Classes  
 28 -  
 29 - 2695. Array Wrapper  
+30 - 2726. Calculator with Method Chaining  
 
 --------
 Study plan available at https://leetcode.com/studyplan/30-days-of-javascript/
