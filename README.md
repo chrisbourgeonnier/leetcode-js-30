@@ -37,7 +37,7 @@ A repository with my solutions as I go through this 30-day challenge.
 26 -  
 27 -  
 ### Classes  
-28 -  
+28 - 2694. Event Emitter  
 29 - 2695. Array Wrapper  
 30 - 2726. Calculator with Method Chaining  
 
