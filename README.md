@@ -35,7 +35,7 @@ A repository with my solutions as I go through this 30-day challenge.
 24 - 2724. Sort By  
 25 - 2722. Join Two Arrays by ID  
 26 - 2625. Flatten Deeply Nested Array  
-27 -  
+27 - 2705. Compact Object  
 ### Classes  
 28 - 2694. Event Emitter  
 29 - 2695. Array Wrapper  
