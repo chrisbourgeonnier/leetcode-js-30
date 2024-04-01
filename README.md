@@ -34,7 +34,7 @@ A repository with my solutions as I go through this 30-day challenge.
 23 - 2631. Group By  
 24 - 2724. Sort By  
 25 - 2722. Join Two Arrays by ID  
-26 -  
+26 - 2625. Flatten Deeply Nested Array  
 27 -  
 ### Classes  
 28 - 2694. Event Emitter  
